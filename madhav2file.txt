@@ -9,3 +9,5 @@ this is mahendra
 this is santhosh
 this is viswa // This is conflict in line 10 by madhav1
 this is viswa // This is directly done by remote repo
+
+This is my first conflict resolve 
